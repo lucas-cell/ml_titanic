@@ -1,5 +1,5 @@
 # ml_titanic
-My very first Machine Learning submission
+My very first Kaggle ML Submission 
 
 From Kaggle.com
 
